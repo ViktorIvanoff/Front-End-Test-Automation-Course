@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kNnQa1HWslM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\solev\\OneDrive\\Desktop\\Front-End Test Automation - October 2025\\03. Selenium WebDriver\\Solutions\\WebDriverDemo\\WikipediaDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solev\\.nuget\\packages\\selenium.support\\4.28.0\\selenium.support.4.28.0.nupkg.sha512",
+    "C:\\Users\\solev\\.nuget\\packages\\selenium.webdriver\\4.41.0\\selenium.webdriver.4.41.0.nupkg.sha512",
+    "C:\\Users\\solev\\.nuget\\packages\\selenium.webdriver.chromedriver\\146.0.7680.16500\\selenium.webdriver.chromedriver.146.0.7680.16500.nupkg.sha512"
+  ],
+  "logs": []
+}
