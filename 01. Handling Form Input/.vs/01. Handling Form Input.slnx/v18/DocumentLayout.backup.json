@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solev\\OneDrive\\Desktop\\Front-End Test Automation - October 2025\\04. Selenium WebDriver - Exercise\\Own Solutions\\01. Handling Form Input\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4D1CAC-8F93-4200-B1B2-7CC03CFFF199}|..\\02. Working with Web Tables\\02. Working with Web Tables.csproj|c:\\users\\solev\\onedrive\\desktop\\front-end test automation - october 2025\\04. selenium webdriver - exercise\\own solutions\\02. working with web tables\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8035703A-7A65-4F97-9427-3376BCD1B32D}|01. Handling Form Input.csproj|c:\\users\\solev\\onedrive\\desktop\\front-end test automation - october 2025\\04. selenium webdriver - exercise\\own solutions\\01. handling form input\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8035703A-7A65-4F97-9427-3376BCD1B32D}|01. Handling Form Input.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\solev\\OneDrive\\Desktop\\Front-End Test Automation - October 2025\\04. Selenium WebDriver - Exercise\\Own Solutions\\01. Handling Form Input\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\solev\\OneDrive\\Desktop\\Front-End Test Automation - October 2025\\04. Selenium WebDriver - Exercise\\Own Solutions\\01. Handling Form Input\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:02:46.44Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\solev\\OneDrive\\Desktop\\Front-End Test Automation - October 2025\\04. Selenium WebDriver - Exercise\\Own Solutions\\02. Working with Web Tables\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\02. Working with Web Tables\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\solev\\OneDrive\\Desktop\\Front-End Test Automation - October 2025\\04. Selenium WebDriver - Exercise\\Own Solutions\\02. Working with Web Tables\\UnitTest1.cs",
+              "RelativeToolTip": "..\\02. Working with Web Tables\\UnitTest1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAywC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:14:39.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

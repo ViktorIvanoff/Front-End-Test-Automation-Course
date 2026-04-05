@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../02. Working with Web Tables/02. Working with Web Tables.csproj" />
+  <Project Path="01. Handling Form Input.csproj" />
+</Solution>
